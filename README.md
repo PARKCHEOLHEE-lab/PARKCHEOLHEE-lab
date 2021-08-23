@@ -27,7 +27,7 @@
 > 
 >  ___🔍 Utilization Library & Software___
 > 
-> <img src="https://img.shields.io/badge/rhino-2d2f34?style=for-the-badge&logo=rhinoceros&logoColor=white"/> <img src="https://img.shields.io/badge/rhinoscriptsyntax-2d2f34?style=for-the-badge&logo=rhinoceros&logoColor=white"/> <img src="https://img.shields.io/badge/ghpythonlib-83b81a?style=for-the-badge&logo=gimp&logoColor=white"/> <img src="https://img.shields.io/badge/galapagos-ff4154?style=for-the-badge&logo=runkit&logoColor=white"/> <img src="https://img.shields.io/badge/revit-0061ff?style=for-the-badge&logo=rakuten&logoColor=white"/> <img src="https://img.shields.io/badge/qgis-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+> <img src="https://img.shields.io/badge/rhinoscriptsyntax-2d2f34?style=for-the-badge&logo=rhinoceros&logoColor=white"/> <img src="https://img.shields.io/badge/ghpythonlib-83b81a?style=for-the-badge&logo=gimp&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/galapagos-ff4154?style=for-the-badge&logo=runkit&logoColor=white"/> <img src="https://img.shields.io/badge/revit-0061ff?style=for-the-badge&logo=rakuten&logoColor=white"/> <img src="https://img.shields.io/badge/qgis-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
 > 
 > - _Modeling Program Research that Provides a `Scripting Environment`_
 > - _Library Research Built into the Software_
