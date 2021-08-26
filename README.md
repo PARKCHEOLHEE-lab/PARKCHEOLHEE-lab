@@ -19,7 +19,7 @@
 #### ___Research Method___<br>
 > ___🔍 Base Language___
 > 
-> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-C2A633?style=for-the-badge&logo=javascript&logoColor=white"/>
 > 
 >  _Datascape is a `data-driven architectural design` technique that uses the basis of design as data. Therefore, it is easy to collect and process data, has a well-established machine learning environment, and uses language that provides a `Rhino` & `Revit` scripting environment._<br>
 >
